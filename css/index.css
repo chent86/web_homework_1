@@ -1,72 +1,72 @@
 body {
-	background-image: url("http://img.sj33.cn/uploads/allimg/201504/7-150412210301D0.png");
+    background-image: url("http://img.sj33.cn/uploads/allimg/201504/7-150412210301D0.png");
 }
 
 h1 {
-	color: #A4A400;
-	background-color: #F0F0F0;
-	font-family: Verdana;
-	text-align: center;
-	font-size: 22pt;
-	text-decoration: underline;
-	font-weight: bold;
-	letter-spacing: 0.2em;
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 22pt;
+    text-decoration: underline;
+    font-weight: bold;
+    letter-spacing: 0.2em;
 }
 
 h2 {
-	text-align: center;
-	color: #A4A400;
-	background-color: #F0F0F0;
-	text-decoration: underline;
-	font-size: 18pt;
-	font-family: Verdana;
-	font-weight: normal;
-	letter-spacing: 0.2em;
+    text-align: center;
+    color: #A4A400;
+    background-color: #F0F0F0;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-family: Verdana;
+    font-weight: normal;
+    letter-spacing: 0.2em;
 }
 
 p.img {
-	text-align: center;
+    text-align: center;
 }
 
 p.word {
-	text-align: center;
-	font-size: 70pt;
-	font-family: Verdana;
-	color: white;
+    text-align: center;
+    font-size: 70pt;
+    font-family: Verdana;
+    color: white;
 }
 
 p.word:hover {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 img.fruit {
-	height: 360px;
-	width: 440px;
-	border: 1px solid #ccc;
-	border-radius: 25px;
+    height: 360px;
+    width: 440px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
 }
 
 img.fruit:hover {
-	border: 5px solid #777;
+    border: 5px solid #777;
 }
 
 ul {
-	list-style-type: none;
-	float: left;
-	padding: 0;
-	width: 200px;
-	background-color: #f1f1f1;
+    list-style-type: none;
+    float: left;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
 }
 
 li a {
-	display: block;
-	color: #000;
-	padding: 8px 16px;
-	text-decoration: none;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
 }
 
 li a:hover {
-	color: #A4A400;
-	font-weight: bold;
-	background-color: white;
+    color: #A4A400;
+    font-weight: bold;
+    background-color: white;
 }
